@@ -1,0 +1,31 @@
+<html>
+<h1>Brawl Stars</h1>
+<p>Brawl Stars це доволі популярна гра</p>
+<p>Ось одна табличка з турніру</p>
+<table >
+<tr>
+<td>Команди</td>
+<td>Перемоги<td>
+<td>Програші</td>
+<td>Нічиї</td>
+<td>Очки</td></tr>
+<tr>
+<td>Navi</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>12</td></tr>
+<tr>
+<td>Strike</td>
+<td>2</td>
+<td>4</td>
+<td>1</td>
+<td>9</td></tr>
+<tr>
+<td>Evil</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td>9</td></tr>
+</table>
+</html>
